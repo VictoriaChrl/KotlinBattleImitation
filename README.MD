@@ -6,4 +6,4 @@ The battle takes place step by step: each warrior from the team attacks the enem
 
 This "game" displays the current course of the battle in the console.
 
-Yoy can start the process in main.kt and change the number of members for two teams.
+You can run the "game" in main.kt and change the number of members for two teams.
